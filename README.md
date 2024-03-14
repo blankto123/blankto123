@@ -3,6 +3,10 @@
 <br>
  Sou um jovem estudante de Desenvolvimento de Software na [FATEC](https://fatecosasco.edu.br/osasco/index.php/desenvolvimento-de-software-multiplataforma/) buscando conhecimento e experiências dentro da área de tecnologia. 💻
 
+ **Hello World! You can call me Vini.** 🤝
+<br>
+ I am a young Software Development student at [FATEC](https://fatecosasco.edu.br/osasco/index.php/desenvolvimento-de-software-multiplataforma/) seeking knowledge and experiences within the technology area. 💻
+
 ## Contato 📲
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-blancato-594204253)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blankto123)
