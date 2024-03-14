@@ -12,7 +12,7 @@ Português |
  I am a young Software Development student at [FATEC](https://fatecosasco.edu.br/osasco/index.php/desenvolvimento-de-software-multiplataforma/) seeking knowledge and experiences within the technology area. 💻
 
 ## Contato 📲
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-blancato-594204253)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-blancato-594204253/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blankto123)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+11+968509503)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:vinifonblan@gmail.com)
