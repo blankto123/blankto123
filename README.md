@@ -1,8 +1,12 @@
 # Vinícius Blancato 
+Português |
+<br>
 **Olá mundo! Pode me chamar de Vini.** 🤝
 <br>
  Sou um jovem estudante de Desenvolvimento de Software na [FATEC](https://fatecosasco.edu.br/osasco/index.php/desenvolvimento-de-software-multiplataforma/) buscando conhecimento e experiências dentro da área de tecnologia. 💻
 
+ English |
+ <br>
  **Hello World! You can call me Vini.** 🤝
 <br>
  I am a young Software Development student at [FATEC](https://fatecosasco.edu.br/osasco/index.php/desenvolvimento-de-software-multiplataforma/) seeking knowledge and experiences within the technology area. 💻
