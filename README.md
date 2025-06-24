@@ -3,13 +3,13 @@ Português |
 <br>
 **Olá mundo! Pode me chamar de Vini.** 🤝
 <br>
- Sou um jovem estudante de Desenvolvimento de Software na [FATEC](https://fatecosasco.edu.br/osasco/index.php/desenvolvimento-de-software-multiplataforma/) buscando conhecimento e experiências dentro da área de tecnologia. 💻
+ Sou um jovem estudante de Ánalise de Dados em Alta Performance na [UNICID](https://cursos.cruzeirodosulvirtual.com.br/grad-analise-de-dados-de-alta-performance-cruzeiro-do-sul-virtual/p) buscando conhecimento e experiências dentro da área de tecnologia. 💻
 
  English |
  <br>
  **Hello World! You can call me Vini.** 🤝
 <br>
- I am a young Software Development student at [FATEC](https://fatecosasco.edu.br/osasco/index.php/desenvolvimento-de-software-multiplataforma/) seeking knowledge and experiences within the technology area. 💻
+ I am a young High Performance Data Analysis student at [UNICID](https://cursos.cruzeirodosulvirtual.com.br/grad-analise-de-dados-de-alta-performance-cruzeiro-do-sul-virtual/p) seeking knowledge and experiences within the technology area. 💻
 
 ## Contato 📲
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-blancato-594204253/)
